@@ -3,7 +3,7 @@ import logging
 from bs4 import BeautifulSoup
 import re
 
-name = "CryptoRobot"
+name = "CryptoRobot1"
 version = "1.00"
 depends = ["bs4"]
 waiter = False
