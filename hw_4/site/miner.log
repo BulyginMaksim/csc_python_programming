@@ -1,0 +1,360 @@
+2021-04-25 14:42:22,168 DEBUG Using selector: SelectSelector
+2021-04-25 14:50:13,693 ERROR FollowerCounterReporter.py in reporters: No module named 'twitch'
+2021-04-25 14:50:14,122 ERROR reporter-movie-news.py in reporters: No module named 'feedparser'
+2021-04-25 14:50:16,943 ERROR reporterAI.py in reporters: No module named 'feedparser'
+2021-04-25 14:50:17,460 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 14:50:17,556 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 14:50:17,559 INFO start mining
+2021-04-25 14:50:18,258 DEBUG Starting new HTTPS connection (1): bushe.ru:443
+2021-04-25 14:50:18,259 DEBUG Starting new HTTPS connection (1): www.isu.org:443
+2021-04-25 14:50:18,260 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 14:50:18,315 INFO Access successful
+2021-04-25 14:50:18,650 INFO Access successful
+2021-04-25 14:50:18,860 DEBUG https://bushe.ru:443 "GET /category/bdaefef6-bf33-7d4b-9b8f-f28058e129c3 HTTP/1.1" 200 13015
+2021-04-25 14:50:19,053 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_highest_scores_in_figure_skating HTTP/1.1" 200 63710
+2021-04-25 14:50:19,748 DEBUG https://www.isu.org:443 "GET /isu-news/news HTTP/1.1" 200 13431
+2021-04-25 15:02:55,668 ERROR FollowerCounterReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:02:55,674 ERROR reporter-movie-news.py in reporters: No module named 'feedparser'
+2021-04-25 15:02:55,677 ERROR reporterAI.py in reporters: No module named 'feedparser'
+2021-04-25 15:02:55,686 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:02:55,689 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:02:55,690 INFO start mining
+2021-04-25 15:02:55,709 DEBUG Starting new HTTPS connection (1): bushe.ru:443
+2021-04-25 15:02:55,716 DEBUG Starting new HTTPS connection (1): www.isu.org:443
+2021-04-25 15:02:55,717 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:02:57,745 INFO Access successful
+2021-04-25 15:02:58,153 INFO Access successful
+2021-04-25 15:02:58,312 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_highest_scores_in_figure_skating HTTP/1.1" 200 63710
+2021-04-25 15:02:58,648 DEBUG https://bushe.ru:443 "GET /category/bdaefef6-bf33-7d4b-9b8f-f28058e129c3 HTTP/1.1" 200 13015
+2021-04-25 15:02:58,940 DEBUG https://www.isu.org:443 "GET /isu-news/news HTTP/1.1" 200 13434
+2021-04-25 15:03:38,443 ERROR FollowerCounterReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:03:38,448 ERROR reporter-movie-news.py in reporters: No module named 'feedparser'
+2021-04-25 15:03:38,453 ERROR reporterAI.py in reporters: No module named 'feedparser'
+2021-04-25 15:03:38,462 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:03:38,466 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:03:38,466 INFO start mining
+2021-04-25 15:03:38,467 ERROR <module 'airpods_pro' from '../reporters\\airpods_pro.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'asteroids' from '../reporters\\asteroids.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'biocad' from '../reporters\\biocad.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'CurrencyCNY' from '../reporters\\CurrencyCNY.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'DidYouSeeTheUSADebt' from '../reporters\\DidYouSeeTheUSADebt.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'DotaMatchReporter' from '../reporters\\DotaMatchReporter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'first_reporter' from '../reporters\\first_reporter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,467 ERROR <module 'fourth_reporter' from '../reporters\\fourth_reporter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'github' from '../reporters\\github.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'kfc_coupons' from '../reporters\\kfc_coupons.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'KurilSeismic' from '../reporters\\KurilSeismic.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'marathon_bet' from '../reporters\\marathon_bet.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'rep1' from '../reporters\\rep1.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'rep2' from '../reporters\\rep2.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'rep3' from '../reporters\\rep3.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'rep4' from '../reporters\\rep4.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,468 ERROR <module 'RepoGamer' from '../reporters\\RepoGamer.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter-bushe' from '../reporters\\reporter-bushe.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter-world-stat' from '../reporters\\reporter-world-stat.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter' from '../reporters\\reporter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter1' from '../reporters\\reporter1.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter2' from '../reporters\\reporter2.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter3' from '../reporters\\reporter3.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporter4' from '../reporters\\reporter4.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'reporterCVIR' from '../reporters\\reporterCVIR.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,469 ERROR <module 'ReporterError' from '../reporters\\ReporterError.py'> in reporters: module 'ReporterError' has no attribute 'name'
+2021-04-25 15:03:38,470 ERROR <module 'reporterPJ' from '../reporters\\reporterPJ.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporterUSD' from '../reporters\\reporterUSD.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_1' from '../reporters\\reporter_1.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_2' from '../reporters\\reporter_2.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_3' from '../reporters\\reporter_3.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_4' from '../reporters\\reporter_4.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_nasa_apod' from '../reporters\\reporter_nasa_apod.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_new_video_waiter' from '../reporters\\reporter_new_video_waiter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,470 ERROR <module 'reporter_python_course_counter' from '../reporters\\reporter_python_course_counter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'reporter_valheim_counter' from '../reporters\\reporter_valheim_counter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'reporter_witcher_discount_waiter' from '../reporters\\reporter_witcher_discount_waiter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'RepoWiki' from '../reporters\\RepoWiki.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'RoboBlackWidow' from '../reporters\\RoboBlackWidow.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'RoboCorona' from '../reporters\\RoboCorona.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'roboreporter_1' from '../reporters\\roboreporter_1.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'roboreporter_2' from '../reporters\\roboreporter_2.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,471 ERROR <module 'roboreporter_3' from '../reporters\\roboreporter_3.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'roboreporter_4' from '../reporters\\roboreporter_4.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'roboreporter_5' from '../reporters\\roboreporter_5.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'RodoIlonMask' from '../reporters\\RodoIlonMask.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'RodoMaska' from '../reporters\\RodoMaska.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'second_reporter' from '../reporters\\second_reporter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'third_reporter' from '../reporters\\third_reporter.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'urbandictionary' from '../reporters\\urbandictionary.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,472 ERROR <module 'utils' from '../reporters\\utils.py'> in reporters: module 'utils' has no attribute 'name'
+2021-04-25 15:03:38,472 ERROR <module 'waiting_reporter_1' from '../reporters\\waiting_reporter_1.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:38,473 ERROR <module 'waiting_reporter_2' from '../reporters\\waiting_reporter_2.py'> in reporters: name 'future_to_name' is not defined
+2021-04-25 15:03:58,557 ERROR FollowerCounterReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:03:58,563 ERROR reporter-movie-news.py in reporters: No module named 'feedparser'
+2021-04-25 15:03:58,567 ERROR reporterAI.py in reporters: No module named 'feedparser'
+2021-04-25 15:03:58,573 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:03:58,577 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:03:58,577 INFO start mining
+2021-04-25 15:03:58,597 DEBUG Starting new HTTPS connection (1): bushe.ru:443
+2021-04-25 15:03:58,603 DEBUG Starting new HTTPS connection (1): www.isu.org:443
+2021-04-25 15:03:58,604 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:03:58,606 ERROR <module 'ReporterError' from '../reporters\\ReporterError.py'> in reporters: module 'ReporterError' has no attribute 'name'
+2021-04-25 15:03:58,627 DEBUG Starting new HTTPS connection (1): coronavirus-control.ru:443
+2021-04-25 15:03:58,627 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:03:58,636 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:03:58,637 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:03:58,638 INFO Access successful
+2021-04-25 15:03:58,639 ERROR <module 'utils' from '../reporters\\utils.py'> in reporters: module 'utils' has no attribute 'name'
+2021-04-25 15:03:58,641 ERROR PythonCourseCounter raised 'ascii' codec can't encode characters in position 129-132: ordinal not in range(128)
+2021-04-25 15:03:58,641 ERROR Spotify_fan_waiter raised name 'urllib' is not defined
+2021-04-25 15:03:58,641 ERROR RedRoomWaiter raised URL can't contain control characters. '/youtube/v3/search?key=(ваш ключ)&channelId=UCsK1oV0PGkcZ1UhFtajx0dg&part=snippet&order=date&maxResults=5000' (found at least ' ')
+2021-04-25 15:03:58,641 ERROR SpaceReporter raised 'ascii' codec can't encode characters in position 45-48: ordinal not in range(128)
+2021-04-25 15:03:58,641 ERROR Spotify_chart_fan raised name 'urllib' is not defined
+2021-04-25 15:03:58,641 ERROR RoboOleg raised [Errno 2] No such file or directory: 'token.txt'
+2021-04-25 15:03:58,645 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:03:58,648 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:04:01,055 DEBUG https://bushe.ru:443 "GET /category/bdaefef6-bf33-7d4b-9b8f-f28058e129c3 HTTP/1.1" 200 13015
+2021-04-25 15:04:01,192 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_highest_scores_in_figure_skating HTTP/1.1" 200 63710
+2021-04-25 15:04:01,408 INFO Access successful
+2021-04-25 15:04:02,087 DEBUG https://www.isu.org:443 "GET /isu-news/news HTTP/1.1" 200 13431
+2021-04-25 15:04:02,274 INFO Access successful
+2021-04-25 15:04:02,751 DEBUG https://en.wikipedia.org:443 "GET /wiki/Black_Widow_(2021_film) HTTP/1.1" 200 66563
+2021-04-25 15:04:03,145 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:04:03,255 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:04:03,379 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:04:03,517 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:04:03,594 DEBUG https://coronavirus-control.ru:443 "GET /coronavirus-saint-petersburg/ HTTP/1.1" 200 None
+2021-04-25 15:04:04,047 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:04:04,832 INFO Access successful
+2021-04-25 15:04:04,882 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:04:08,774 ERROR This page is different from what you expected
+2021-04-25 15:06:15,363 ERROR FollowerCounterReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:06:15,498 ERROR reporter-movie-news.py in reporters: No module named 'feedparser'
+2021-04-25 15:06:18,749 ERROR reporterAI.py in reporters: No module named 'feedparser'
+2021-04-25 15:06:18,783 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:06:18,790 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:06:18,793 INFO start mining
+2021-04-25 15:06:19,425 INFO Access successful
+2021-04-25 15:06:19,494 INFO Access successful
+2021-04-25 15:06:19,497 ERROR <module 'ReporterError' from '../reporters\\ReporterError.py'> in reporters: module 'ReporterError' has no attribute 'name'
+2021-04-25 15:06:19,534 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:06:19,534 DEBUG Starting new HTTPS connection (1): www.isu.org:443
+2021-04-25 15:06:19,535 DEBUG Starting new HTTPS connection (1): bushe.ru:443
+2021-04-25 15:06:19,551 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:06:19,560 DEBUG Starting new HTTPS connection (1): coronavirus-control.ru:443
+2021-04-25 15:06:19,572 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:06:19,576 INFO Access successful
+2021-04-25 15:06:19,577 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:06:19,580 ERROR <module 'utils' from '../reporters\\utils.py'> in reporters: module 'utils' has no attribute 'name'
+2021-04-25 15:06:19,585 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:06:19,589 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:06:20,190 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_highest_scores_in_figure_skating HTTP/1.1" 200 63710
+2021-04-25 15:06:20,209 DEBUG https://bushe.ru:443 "GET /category/bdaefef6-bf33-7d4b-9b8f-f28058e129c3 HTTP/1.1" 200 13015
+2021-04-25 15:06:20,214 DEBUG https://en.wikipedia.org:443 "GET /wiki/Black_Widow_(2021_film) HTTP/1.1" 200 66563
+2021-04-25 15:06:20,578 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:06:20,594 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:06:20,624 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:06:20,887 DEBUG https://www.isu.org:443 "GET /isu-news/news HTTP/1.1" 200 13433
+2021-04-25 15:06:20,935 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:06:21,073 DEBUG https://coronavirus-control.ru:443 "GET /coronavirus-saint-petersburg/ HTTP/1.1" 200 None
+2021-04-25 15:06:21,478 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:06:21,867 INFO Access successful
+2021-04-25 15:06:22,149 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:06:23,311 ERROR This page is different from what you expected
+2021-04-25 15:07:46,901 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:07:46,906 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:07:46,911 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:07:46,914 ERROR реп in reporters: Empty module name
+2021-04-25 15:07:46,914 INFO start mining
+2021-04-25 15:07:46,921 INFO Access successful
+2021-04-25 15:07:46,985 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:07:46,987 ERROR RoboOleg raised [Errno 2] No such file or directory: 'token.txt'
+2021-04-25 15:07:46,988 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:07:46,991 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:07:46,992 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:07:47,514 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:07:47,521 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:07:48,324 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:07:48,971 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:07:49,599 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:07:50,220 INFO Access successful
+2021-04-25 15:07:51,036 ERROR This page is different from what you expected
+2021-04-25 15:08:25,691 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:08:25,695 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:08:25,700 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:08:25,701 ERROR реп in reporters: Empty module name
+2021-04-25 15:08:25,701 INFO start mining
+2021-04-25 15:08:25,707 INFO Access successful
+2021-04-25 15:08:25,769 ERROR RoboOleg raised [Errno 2] No such file or directory: 'token.txt'
+2021-04-25 15:08:25,775 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:08:25,780 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:08:25,781 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:08:25,781 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:08:26,487 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:08:27,263 INFO Access successful
+2021-04-25 15:08:27,294 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:08:27,299 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:08:27,317 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:08:27,444 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:08:27,633 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:08:27,792 ERROR This page is different from what you expected
+2021-04-25 15:10:04,419 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:10:04,422 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:10:04,424 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:10:04,425 ERROR реп in reporters: Empty module name
+2021-04-25 15:10:04,426 INFO start mining
+2021-04-25 15:10:04,433 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:10:04,442 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:10:04,460 INFO Access successful
+2021-04-25 15:10:04,490 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:10:04,492 ERROR RoboOleg raised [Errno 2] No such file or directory: 'token.txt'
+2021-04-25 15:10:04,496 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:10:05,016 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:10:05,928 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:10:05,935 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:10:06,665 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:10:07,342 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:10:07,569 INFO Neputin ruturn {'RodoIlonMask': [], 'RodoMaska': [], 'RoboIvan': [], 'RoboOleg': [None], 'WordOfTheMonth': [], 'Neputin': [{'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}], 'Youtuber': []}
+2021-04-25 15:10:07,702 INFO Access successful
+2021-04-25 15:10:07,723 INFO RodoMaska ruturn {'RodoIlonMask': [], 'RodoMaska': [None], 'RoboIvan': [], 'RoboOleg': [None], 'WordOfTheMonth': [], 'Neputin': [{'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}], 'Youtuber': []}
+2021-04-25 15:10:08,134 ERROR This page is different from what you expected
+2021-04-25 15:10:08,136 INFO RoboIvan ruturn {'RodoIlonMask': [], 'RodoMaska': [None], 'RoboIvan': [{}], 'RoboOleg': [None], 'WordOfTheMonth': [], 'Neputin': [{'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}], 'Youtuber': []}
+2021-04-25 15:10:08,162 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:10:08,760 INFO Youtuber ruturn {'RodoIlonMask': [], 'RodoMaska': [None], 'RoboIvan': [{}], 'RoboOleg': [None], 'WordOfTheMonth': [], 'Neputin': [{'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}], 'Youtuber': [{'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}]}
+2021-04-25 15:10:08,994 INFO RodoIlonMask ruturn {'RodoIlonMask': [{'title': 'Собственный капитал Илона Маска уже $178B', 'text': 'Генеральный директор Tesla - Илон Маск может позволить себе 131.36 дворца Путина'}], 'RodoMaska': [None], 'RoboIvan': [{}], 'RoboOleg': [None], 'WordOfTheMonth': [], 'Neputin': [{'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}], 'Youtuber': [{'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}]}
+2021-04-25 15:10:17,412 INFO WordOfTheMonth ruturn {'RodoIlonMask': [{'title': 'Собственный капитал Илона Маска уже $178B', 'text': 'Генеральный директор Tesla - Илон Маск может позволить себе 131.36 дворца Путина'}], 'RodoMaska': [None], 'RoboIvan': [{}], 'RoboOleg': [None], 'WordOfTheMonth': [{'title': 'Слово месяца по версии Urban Dictionary - bonerjams (11205 лайков)', 'text': 'В 4-м месяце этого года ведущие аналитики портала Urban Dictionary провели анализ пользовательских предпочтений и определили слово месяца. Таким словом оказалось bonerjams - оно набрало аж 11205 лайков. Удивительно, не правда ли? А ещё один интересный факт про 21-й год - самым длинным словом оказалось This post will age terribly.'}], 'Neputin': [{'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}], 'Youtuber': [{'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}]}
+2021-04-25 15:10:17,413 INFO stop mining
+2021-04-25 15:11:56,163 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:11:56,167 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:11:56,172 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:11:56,172 ERROR реп in reporters: Empty module name
+2021-04-25 15:11:56,173 INFO start mining
+2021-04-25 15:11:56,179 INFO Access successful
+2021-04-25 15:11:56,238 ERROR RoboOleg raised [Errno 2] No such file or directory: 'token.txt'
+2021-04-25 15:11:56,248 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:11:56,249 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:11:56,250 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:11:56,250 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:11:56,396 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:11:56,402 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:11:56,522 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:11:56,739 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:11:57,401 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:11:58,469 INFO Neputin ruturn {'RodoIlonMask': None, 'RodoMaska': None, 'RoboIvan': None, 'RoboOleg': None, 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': None}
+2021-04-25 15:11:58,584 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:11:58,838 INFO RodoMaska ruturn {'RodoIlonMask': None, 'RodoMaska': None, 'RoboIvan': None, 'RoboOleg': None, 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': None}
+2021-04-25 15:11:59,095 INFO Access successful
+2021-04-25 15:11:59,519 INFO RodoIlonMask ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': None, 'RoboOleg': None, 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': None}
+2021-04-25 15:11:59,655 ERROR This page is different from what you expected
+2021-04-25 15:11:59,701 INFO RoboIvan ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': None, 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': None}
+2021-04-25 15:11:59,980 INFO Youtuber ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': None, 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': {'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}}
+2021-04-25 15:12:06,535 INFO WordOfTheMonth ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': None, 'WordOfTheMonth': {'title': 'Слово месяца по версии Urban Dictionary - bonerjams (11205 лайков)', 'text': 'В 4-м месяце этого года ведущие аналитики портала Urban Dictionary провели анализ пользовательских предпочтений и определили слово месяца. Таким словом оказалось bonerjams - оно набрало аж 11205 лайков. Удивительно, не правда ли? А ещё один интересный факт про 21-й год - самым длинным словом оказалось This post will age terribly.'}, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': {'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}}
+2021-04-25 15:12:06,536 INFO stop mining
+2021-04-25 15:13:16,090 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:13:16,094 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:13:16,098 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:13:16,099 ERROR реп in reporters: Empty module name
+2021-04-25 15:13:16,099 INFO start mining
+2021-04-25 15:13:16,104 INFO Access successful
+2021-04-25 15:13:16,169 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:13:16,171 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:13:16,172 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:13:16,173 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:13:17,567 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:13:17,574 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:13:19,473 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:13:19,633 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:13:19,855 INFO Access successful
+2021-04-25 15:13:19,967 INFO RodoIlonMask ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': None, 'RoboOleg': "RoboOleg raised [Errno 2] No such file or directory: 'token.txt'", 'WordOfTheMonth': None, 'Neputin': None, 'Youtuber': None}
+2021-04-25 15:13:20,341 INFO Neputin ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': None, 'RoboOleg': "RoboOleg raised [Errno 2] No such file or directory: 'token.txt'", 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': None}
+2021-04-25 15:13:20,372 ERROR This page is different from what you expected
+2021-04-25 15:13:20,372 INFO RoboIvan ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': "RoboOleg raised [Errno 2] No such file or directory: 'token.txt'", 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': None}
+2021-04-25 15:13:20,673 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:13:20,835 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:13:21,266 INFO Youtuber ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': "RoboOleg raised [Errno 2] No such file or directory: 'token.txt'", 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': {'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}}
+2021-04-25 15:13:21,340 INFO RodoMaska ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': "RoboOleg raised [Errno 2] No such file or directory: 'token.txt'", 'WordOfTheMonth': None, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': {'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}}
+2021-04-25 15:14:14,605 INFO WordOfTheMonth ruturn {'RodoIlonMask': {'title': 'Шок! Состояние Илона Маска превысило $178B!', 'text': 'Forbes сообщает, что собственный капитал Илона Маска $178B'}, 'RodoMaska': None, 'RoboIvan': {}, 'RoboOleg': "RoboOleg raised [Errno 2] No such file or directory: 'token.txt'", 'WordOfTheMonth': {'title': 'Слово месяца по версии Urban Dictionary - bonerjams (11205 лайков)', 'text': 'В 4-м месяце этого года ведущие аналитики портала Urban Dictionary провели анализ пользовательских предпочтений и определили слово месяца. Таким словом оказалось bonerjams - оно набрало аж 11205 лайков. Удивительно, не правда ли? А ещё один интересный факт про 21-й год - самым длинным словом оказалось This post will age terribly.'}, 'Neputin': {'title': 'Владимир Путин больше не у власти!', 'text': 'Владимир Путин покинул пост Президента страны Россия после 17 лет правления! Его сменил Владимир Путин.'}, 'Youtuber': {'title': 'На YouTube появилось первое видео, достигшее более 8 миллиардов просмотров!', 'text': 'Видео с названием "Baby Shark Dance", опубликованное каналом с названием "Pinkfong Kids\' Songs & Stories" на YouTube набрало на данный момент более 8.37 миллиардов просмотров! Поразительно!'}}
+2021-04-25 15:14:14,606 INFO stop mining
+2021-04-25 15:25:17,317 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:25:17,322 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:25:17,326 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:25:17,326 ERROR реп in reporters: Empty module name
+2021-04-25 15:25:17,332 INFO Access successful
+2021-04-25 15:25:17,396 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:25:17,397 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:25:17,398 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:25:17,399 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:25:18,199 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:25:18,207 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:25:18,266 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:25:18,390 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:25:18,491 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:25:19,312 INFO Access successful
+2021-04-25 15:25:19,852 ERROR This page is different from what you expected
+2021-04-25 15:25:20,270 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:25:27,211 DEBUG Using selector: SelectSelector
+2021-04-25 15:32:48,862 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:32:48,867 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:32:48,872 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:32:48,872 ERROR реп in reporters: Empty module name
+2021-04-25 15:32:48,882 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:32:48,886 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:32:48,909 INFO Access successful
+2021-04-25 15:32:48,953 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:32:48,957 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:32:49,298 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:32:49,303 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:32:49,416 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51444
+2021-04-25 15:32:49,676 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:32:49,807 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:32:50,032 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:32:50,592 INFO Access successful
+2021-04-25 15:32:51,547 ERROR This page is different from what you expected
+2021-04-25 15:32:59,444 DEBUG Using selector: SelectSelector
+2021-04-25 15:36:57,464 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:36:57,467 ERROR utils.py in reporters: No module named 'ReporterError'
+2021-04-25 15:36:57,471 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:36:57,471 ERROR реп in reporters: Empty module name
+2021-04-25 15:36:57,478 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:36:57,505 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:36:57,506 INFO Access successful
+2021-04-25 15:36:57,537 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:36:57,541 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:36:57,706 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:36:57,718 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:36:58,659 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:36:58,800 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51446
+2021-04-25 15:36:58,977 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:36:58,998 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:36:59,957 INFO Access successful
+2021-04-25 15:37:00,928 ERROR This page is different from what you expected
+2021-04-25 15:48:24,495 ERROR FollowerCounterReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:48:24,625 ERROR reporter-movie-news.py in reporters: No module named 'feedparser'
+2021-04-25 15:48:32,009 ERROR reporterAI.py in reporters: No module named 'feedparser'
+2021-04-25 15:48:32,051 ERROR StreamerReporter.py in reporters: No module named 'twitch'
+2021-04-25 15:48:32,059 ERROR youtube.py in reporters: No module named 'selenium'
+2021-04-25 15:48:32,915 ERROR <module 'ReporterError' from '../reporters\\ReporterError.py'> in reporters: module 'ReporterError' has no attribute 'name'
+2021-04-25 15:48:33,012 DEBUG Starting new HTTPS connection (1): www.isu.org:443
+2021-04-25 15:48:33,013 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:48:33,013 DEBUG Starting new HTTPS connection (1): bushe.ru:443
+2021-04-25 15:48:33,052 DEBUG Starting new HTTPS connection (1): coronavirus-control.ru:443
+2021-04-25 15:48:33,054 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:48:33,126 DEBUG Starting new HTTPS connection (1): www.forbes.com:443
+2021-04-25 15:48:33,127 DEBUG Starting new HTTPS connection (1): apteka.ru:443
+2021-04-25 15:48:33,135 INFO Access successful
+2021-04-25 15:48:33,139 INFO Access successful
+2021-04-25 15:48:33,144 ERROR <module 'utils' from '../reporters\\utils.py'> in reporters: module 'utils' has no attribute 'name'
+2021-04-25 15:48:33,149 DEBUG Starting new HTTP connection (1): www.google.com:80
+2021-04-25 15:48:33,154 DEBUG Starting new HTTPS connection (1): en.wikipedia.org:443
+2021-04-25 15:48:33,390 INFO Access successful
+2021-04-25 15:48:34,402 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_highest_scores_in_figure_skating HTTP/1.1" 200 63710
+2021-04-25 15:48:35,003 DEBUG https://www.isu.org:443 "GET /isu-news/news HTTP/1.1" 200 13434
+2021-04-25 15:48:35,095 DEBUG https://en.wikipedia.org:443 "GET /wiki/Black_Widow_(2021_film) HTTP/1.1" 200 66563
+2021-04-25 15:48:35,636 DEBUG https://coronavirus-control.ru:443 "GET /coronavirus-saint-petersburg/ HTTP/1.1" 200 None
+2021-04-25 15:48:35,840 DEBUG http://www.google.com:80 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F HTTP/1.1" 302 335
+2021-04-25 15:48:35,855 DEBUG https://www.forbes.com:443 "GET /profile/elon-musk/?list=rtb/&sh=29c7a18f7999 HTTP/1.1" 200 51446
+2021-04-25 15:48:35,900 DEBUG Starting new HTTPS connection (1): www.google.com:443
+2021-04-25 15:48:35,931 DEBUG https://bushe.ru:443 "GET /category/bdaefef6-bf33-7d4b-9b8f-f28058e129c3 HTTP/1.1" 200 13015
+2021-04-25 15:48:36,523 DEBUG https://en.wikipedia.org:443 "GET /wiki/List_of_most-viewed_YouTube_videos HTTP/1.1" 200 56694
+2021-04-25 15:48:36,887 DEBUG https://www.google.com:443 "GET /search?q=%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&gws_rd=ssl HTTP/1.1" 200 None
+2021-04-25 15:48:37,270 DEBUG https://apteka.ru:443 "GET /sankt-peterburg/product/amplen-hyaluron-shot-uvlazhnyayushhaya-dvuxstupenchataya-maska-s-gialuronom-5e425680f621e000014ba1ff/ HTTP/1.1" 200 None
+2021-04-25 15:48:37,458 INFO Access successful
+2021-04-25 15:48:38,243 ERROR This page is different from what you expected
+2021-04-25 15:57:41,779 DEBUG Using selector: SelectSelector
